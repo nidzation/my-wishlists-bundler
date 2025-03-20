@@ -1,0 +1,14 @@
+title:My Armor Wishlist
+description:My personal recommendations for armor pieces with specific stats.
+
+//notes: Helmet stats
+dimwishlist:item=helmet&perks=resilience:18,recovery:16,discipline:15
+
+//notes: Gauntlets stats
+dimwishlist:item=gauntlets&perks=resilience:15,recovery:18,discipline:16
+
+//notes: Chest Armor stats
+dimwishlist:item=chest-armor&perks=resilience:16,recovery:15,discipline:18
+
+//notes: Leg Armor stats
+dimwishlist:item=leg-armor&perks=resilience:17,recovery:17,discipline:17
